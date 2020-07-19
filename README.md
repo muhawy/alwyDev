@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Quiz application project for a school.
+- 🌱 I’m currently learning Flutter and React.
+- 👯 I’m looking to collaborate on web development side project, xixixi...
+- 💬 Ask me about Frontend web development, it's my specialty. Also general discussion about web and mobile application development.
+- 📫 How to reach me: wyalwy.dev@gmail.com
+
 <!--
 **alwyDev/alwyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
