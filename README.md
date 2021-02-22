@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter and React.
 - 👯 I’m looking to collaborate on web development side project, xixixi...
 - 💬 Ask me about Frontend web development, it's my specialty. Also general discussion about development and UI/UX design of web and mobile application.
-- 📫 How to reach me: wyalwy.dev@gmail.com
+- 📫 How to reach me: wyalwy.dev@gmail.com or https://wyalwy.netlify.app/
 
 <!--
 **alwyDev/alwyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
