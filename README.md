@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Quiz application project for a school.
+- 🔭 I’m currently working on ReactJS applications.
 - 🌱 I’m currently learning Flutter and React.
 - 👯 I’m looking to collaborate on web development side project, xixixi...
 - 💬 Ask me about Frontend web development, it's my specialty. Also general discussion about development and UI/UX design of web and mobile application.
