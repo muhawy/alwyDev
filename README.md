@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: wyalwy.dev@gmail.com or https://wyalwy.netlify.app/
+- 📫 How to reach me: muhawy.dev@gmail.com or https://wyalwy.netlify.app/
 
 <!--
 **alwyDev/alwyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
